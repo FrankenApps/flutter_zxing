@@ -8,7 +8,7 @@ plugins {
 android {
     namespace = "com.markosyan.flutter_zxing_example"
     compileSdk = flutter.compileSdkVersion
-    // ndkVersion = flutter.ndkVersion
+    ndkVersion = "29.0.13599879"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
